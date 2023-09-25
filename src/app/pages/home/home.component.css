@@ -1,0 +1,23 @@
+.div__master{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+align-items: center;
+width: 97.5vw;
+}
+
+.div__big-card{
+  box-shadow: 1px 1px 1px  #210035;
+  height: 300px;
+  width: 900px;
+margin-bottom: 15px;
+}
+
+.div__smalls-cards{
+ margin-top: 35px;
+  height: 400px;
+  width: 900px;
+  display: flex;
+  flex-direction: row;
+}
+

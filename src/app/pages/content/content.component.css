@@ -1,0 +1,29 @@
+.div__center{
+  width: 700px;
+  height: 120px;
+  margin-top: 220px;
+  margin-left: 50%;
+  transform: translate(-50%);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+
+
+}
+
+.div__center>img{
+  margin-top: 15px;
+  width: 500px;
+  max-width: 501px;
+  min-width: 499px;
+  height: 335px;
+  min-height: 334px;
+  max-height: 336;
+margin-bottom: 30px;
+  border-radius: 6px;
+}
+.div__center>p{
+  margin-top: 30px;
+}

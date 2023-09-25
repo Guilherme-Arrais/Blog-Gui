@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  background-color: #36034b;
+  color: white;
+  text-decoration: none;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
